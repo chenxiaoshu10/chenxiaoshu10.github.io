@@ -7,7 +7,7 @@
 
 # Site settings
 title: 陈小树的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: #Android and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chenxiaoshu10.github.io" # the base hostname & protocol for your site
 
