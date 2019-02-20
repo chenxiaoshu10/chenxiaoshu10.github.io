@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "CentOS7定时任务详解"
+title:  "Nginx并发预估"
 categories: linux
-tags:  centos7 crontab linux 工具软件  
+tags:  centos7 nginx linux 工具软件  
 author: cxs
 ---
 
