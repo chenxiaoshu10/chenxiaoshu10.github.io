@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "CentOS7定时任务详解"
+categories: linux
+tags:  centos7 crontab linux 工具软件  
+author: cxs
+---
+
+
 [TOC]
 
 ### 一.Nginx并发预估
