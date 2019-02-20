@@ -6,8 +6,8 @@ tags:  centos7 crontab linux 工具软件
 author: cxs
 ---
 
-
-[TOC]
+* content
+{:toc}
 
 ### 一.Nginx并发预估
 预估算法：`{（?G）*1024-system}/请求大小`
